@@ -1,0 +1,8 @@
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('https://blog.mint.com/wp-content/uploads/2019/11/Graphic-2-edit.png?w=2880');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
